@@ -10,6 +10,7 @@ The Soulful Charity Web Application Project is a comprehensive software solution
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
+- [Demo](#demo)
 
 ## About the Project
 
@@ -66,4 +67,4 @@ Once the server is running, open your browser and go to http://localhost/soulful
   ![image](https://github.com/xrochit/Soulful_Charity/assets/91835342/8566246a-2e35-4b41-abee-226b355cffb6)
 
 
-## See the project demo - https://soulful-charity.000webhostapp.com/
+## Demo - https://soulful-charity.000webhostapp.com/
